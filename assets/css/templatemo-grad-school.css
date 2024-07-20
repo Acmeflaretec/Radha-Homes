@@ -1480,6 +1480,20 @@ section.contact {
     background-color: #172238;
     padding-bottom: 20px;
 }
+section.master {
+  background-image: url(../images/master.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #172238;
+  padding-bottom: 20px;
+}
+section.floor {
+  background-image: url(../images/floor.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #172238;
+  padding-bottom: 20px;
+}
 
 
 section.contact form {
