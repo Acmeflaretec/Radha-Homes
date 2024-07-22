@@ -166,7 +166,7 @@ a.menu-link { display: none; }
 
 @media screen and (max-width: 1050px) {
   .main-header .logo {
-      padding-left: 30px!important;
+      padding-left: 30!important;
   }
 
   .main-menu {
